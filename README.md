@@ -1,38 +1,73 @@
 # Cybersecurity Professional Portfolio
 
-Welcome to my cybersecurity portfolio. This repository documents hands-on labs, security investigations, and technical reports completed during the Google Cybersecurity Professional Certificate program, along with independent projects and future security work.
+This repository reflects practical experience in identifying vulnerabilities, analyzing network threats, responding to security incidents, and implementing standardized defensive strategies across diverse IT environments.
 
-It focuses on identifying vulnerabilities, analyzing threats, investigating incidents, and implementing defensive security strategies across different environments.
-
-## 🛠️ Technical Skills & Tools
-
-* **Security Analysis:** Threat Modeling (PASTA), Risk Assessment, Security Auditing
-* **Network Security:** Packet Analysis (Wireshark), Intrusion Detection, Traffic Investigation
-* **Systems & Administration:** Linux, Access Control, Security Operations
-* **Tools & Languages:** Python for Security Automation, SQL, NIST Cybersecurity Framework
-
-## 📁 Featured Projects & Lab Reports
-
-### 🛡️ Network Security & Analysis
-
-* **[Network Attack Analysis: SYN Flood Detection](./SYN-Flood-Analysis.md)**  
-Investigation, analysis, and mitigation strategies for DoS attacks.
-
-*More reports coming soon...*
-
-### 🐍 Security Automation (Python)
-
-* **[File Update Algorithm](./Python-Algorithm.md)**  
-Automated access control management using Python.
-
-### 📋 Incident Response & Risk Management
-
-* **[Incident Report Documentation](./Incident-Report.md)**  
-Forensic log analysis, incident investigation, and response strategies.
+It showcases 23 hands-on cybersecurity labs, technical investigations, and security reports completed during the **Google Cybersecurity Professional Certificate**, complemented by ongoing independent learning and practical research.
 
 ---
 
-## 📬 Contact Me
+## 🛠️ Technical Skills & Tools
+
+* **Security Analysis:** Threat Modeling (PASTA), Risk Assessment, Security Auditing, NIST Cybersecurity Framework (NIST CSF)
+* **Network Security:** Packet Analysis (Wireshark), Traffic Investigation, Network Hardening, OS Hardening
+* **Tools & Languages:** Python (Security Automation), SQL (Data Filtering & Investigation), Linux (CLI, Permissions & Access Control)
+* **Compliance & Incident Response:** Incident Response, Data Handling Practices, Asset Classification, Authentication, Authorization & Accounting (AAA)
+
+---
+
+## 📁 Featured Projects & Lab Reports
+
+### 🛡️ 1. Governance, Risk & Compliance (GRC)
+
+### **[Conduct a Security Audit](./labs/security-audit.md)**
+- **Scenario:** A small business requires a formal review of its existing security controls and compliance posture.
+- **Objective:** Evaluate current security controls, identify gaps, and provide risk-based recommendations for mitigation and improvement.
+
+### **[Apply the PASTA Threat Model Framework](./labs/pasta-framework.md)**
+- **Scenario:** Applying a structured threat modeling methodology to assess application security risks.
+- **Objective:** Identify, analyze, and prioritize threats using the 7-stage PASTA methodology.
+
+---
+
+### 🌐 2. Network Security & Investigation
+
+### **[Analyze Network Attacks (SYN Flood)](./labs/network-attacks.md)**
+- **Scenario:** Investigating repeated website connection timeout errors affecting service availability.
+- **Objective:** Perform forensic log analysis to identify a DoS attack and explain TCP handshake exhaustion caused by a SYN flood.
+
+### **[Analyze Network Layer Communication](./labs/network-layers.md)**
+- **Scenario:** Troubleshooting abnormal network traffic behavior and packet flow.
+- **Objective:** Analyze IP and TCP headers to understand packet encapsulation, protocol behavior, and data transmission flow.
+
+---
+
+### 🚨 3. Incident Response & Security Automation
+
+### **[Use the NIST Framework to Respond to a Security Incident](./labs/nist-response.md)**
+- **Scenario:** An organization is responding to a confirmed security breach requiring structured incident management.
+- **Objective:** Apply the NIST Incident Response Life Cycle (Preparation, Detection, Containment, Eradication, Recovery, and Lessons Learned) to manage and document the event.
+
+### **[Update a File Through a Python Algorithm](./labs/python-automation.md)**
+- **Scenario:** Automating access control management for a restricted server environment.
+- **Objective:** Develop a Python script to update and maintain an allow list of approved IP addresses efficiently and securely.
+
+---
+
+## 📚 Additional Labs & Supporting Activities
+
+*This portfolio also includes practical experience across the following domains:*
+
+* **Security Operations:** Asset Classification, Data Handling Practices, AAA Control Improvements
+* **Systems Defense:** Linux Permission Management, OS Hardening Techniques, USB Attack Vector Identification
+* **Forensics & Research:** Suspicious File Hash Investigation, Network Protocol Analyzer Research, Phishing Response Playbooks
+* **Professional Development:** Cybersecurity Organizations Research
+
+These additional activities further support hands-on experience in security operations, governance, defensive security practices, and continuous professional growth.
+
+---
+
+## 📬 Contact & Professional Links
 
 * **LinkedIn:** [Your Profile Link Here]
 * **Email:** [Your Email Here]
+* **Professional Statement:** [View My Cybersecurity Professional Statement](./labs/professional-statement.md)
