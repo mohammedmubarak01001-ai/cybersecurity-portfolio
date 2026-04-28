@@ -31,7 +31,7 @@ It showcases 23 hands-on cybersecurity labs, technical investigations, and secur
 
 ### 🌐 2. Network Security & Investigation
 
-### **[Analyze Network Attacks (SYN Flood)](./labs/network-attacks.md)**
+### **[Analyze Network Attacks (SYN Flood)](./labs/network-attack-analysis.md)**
 - **Scenario:** Investigating repeated website connection timeout errors affecting service availability.
 - **Objective:** Perform forensic log analysis to identify a DoS attack and explain TCP handshake exhaustion caused by a SYN flood.
 
