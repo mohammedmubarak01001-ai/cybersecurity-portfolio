@@ -35,7 +35,7 @@ It showcases 23 hands-on cybersecurity labs, technical investigations, and secur
 - **Scenario:** Investigating repeated website connection timeout errors affecting service availability.
 - **Objective:** Perform forensic log analysis to identify a DoS attack and explain TCP handshake exhaustion caused by a SYN flood.
 
-### **[Analyze Network Layer Communication](./labs/network-layers.md)**
+### **[Analyze Network Layer Communication](./labs/network-traffic-analysis-dns.md)**
 - **Scenario:** Troubleshooting abnormal network traffic behavior and packet flow.
 - **Objective:** Analyze IP and TCP headers to understand packet encapsulation, protocol behavior, and data transmission flow.
 
