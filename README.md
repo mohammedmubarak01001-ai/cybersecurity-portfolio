@@ -86,4 +86,4 @@ I aim to leverage my technical cybersecurity skills to support organizational se
 
 * **LinkedIn:** [Mohammed Mubarak](https://www.linkedin.com/in/mohammed-mubarak-94b285271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * **Email:** [mohammed.mubarak.01001@gmail.com](mailto:mohammed.mubarak.01001@gmail.com)
-* **Professional Statement:** [View My Cybersecurity Professional Statement](./labs/professional-statement.md)
+
