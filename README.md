@@ -3,6 +3,7 @@
 This repository reflects practical experience in identifying vulnerabilities, analyzing network threats, responding to security incidents, and implementing standardized defensive strategies across diverse IT environments.
 
 It showcases selected hands-on cybersecurity labs, technical investigations, and security reports completed during the Google Cybersecurity Professional Certificate, supported by additional independent learning and practical research.
+
 ---
 
 ## 🛠️ Technical Skills & Tools
