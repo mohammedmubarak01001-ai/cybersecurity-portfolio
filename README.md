@@ -6,6 +6,12 @@ It showcases selected hands-on cybersecurity labs, technical investigations, and
 
 ---
 
+## 👤 Professional Statement
+
+I aim to leverage my technical cybersecurity skills to support organizational security goals through continuous monitoring and threat analysis. I am committed to extreme precision in implementing security policies, with a focus on building trusted digital environments based on technical integrity and innovative defense strategies.
+
+---
+
 ## 🛠️ Technical Skills & Tools
 
 * **Security Analysis:** Threat Modeling (PASTA), Risk Assessment, Security Auditing, NIST Cybersecurity Framework (NIST CSF), Pyramid of Pain.
