@@ -8,10 +8,10 @@ It showcases 23 hands-on cybersecurity labs, technical investigations, and secur
 
 ## 🛠️ Technical Skills & Tools
 
-* **Security Analysis:** Threat Modeling (PASTA), Risk Assessment, Security Auditing, NIST Cybersecurity Framework (NIST CSF)
-* **Network Security:** Packet Analysis (Wireshark), Traffic Investigation, Network Hardening, OS Hardening
-* **Tools & Languages:** Python (Security Automation), SQL (Data Filtering & Investigation), Linux (CLI, Permissions & Access Control)
-* **Compliance & Incident Response:** Incident Response, Data Handling Practices, Asset Classification, Authentication, Authorization & Accounting (AAA)
+* **Security Analysis:** Threat Modeling (PASTA), Risk Assessment, Security Auditing, NIST Cybersecurity Framework (NIST CSF), Pyramid of Pain.
+* **Network Security:** Packet Analysis (Wireshark), Traffic Investigation, Network Hardening, OS Hardening.
+* **Tools & Languages:** Python (Security Automation), SQL (Data Filtering & Investigation), Linux (CLI, Permissions & Access Control), VirusTotal.
+* **Compliance & Incident Response:** Incident Response, Data Handling Practices, Asset Classification, Authentication, Authorization & Accounting (AAA).
 
 ---
 
@@ -39,6 +39,10 @@ It showcases 23 hands-on cybersecurity labs, technical investigations, and secur
 - **Scenario:** Troubleshooting abnormal network traffic behavior and packet flow.
 - **Objective:** Analyze IP and TCP headers to understand packet encapsulation, protocol behavior, and data transmission flow.
 
+### **[Apply Filters to SQL Queries](./labs/sql-security-filtering.md)**
+- **Scenario:** Investigating potential security issues related to after-hours login attempts by auditing organizational logs using SQL.
+- **Objective:** Utilize SQL filters (AND, OR, NOT) and wildcards to optimize the investigation process and retrieve critical security information.
+
 ---
 
 ### 🚨 3. Incident Response & Security Automation
@@ -51,6 +55,10 @@ It showcases 23 hands-on cybersecurity labs, technical investigations, and secur
 - **Scenario:** Automating access control management for a restricted server environment.
 - **Objective:** Develop a Python script to update and maintain an allow list of approved IP addresses efficiently and securely.
 
+### **[Investigate a Suspicious File Hash](./labs/malware-investigation.md)**
+- **Scenario:** Analyzing a security alert involving a potentially malicious file identified within the network.
+- **Objective:** Conduct a threat intelligence investigation using VirusTotal to analyze file behavior and map findings to the Pyramid of Pain framework.
+
 ---
 
 ## 📚 Additional Labs & Supporting Activities
@@ -59,10 +67,8 @@ It showcases 23 hands-on cybersecurity labs, technical investigations, and secur
 
 * **Security Operations:** Asset Classification, Data Handling Practices, AAA Control Improvements
 * **Systems Defense:** Linux Permission Management, OS Hardening Techniques, USB Attack Vector Identification
-* **Forensics & Research:** Suspicious File Hash Investigation, Network Protocol Analyzer Research, Phishing Response Playbooks
+* **Forensics & Research:** Network Protocol Analyzer Research, Phishing Response Playbooks
 * **Professional Development:** Cybersecurity Organizations Research
-
-These additional activities further support hands-on experience in security operations, governance, defensive security practices, and continuous professional growth.
 
 ---
 
