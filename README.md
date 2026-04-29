@@ -75,5 +75,5 @@ It showcases selected hands-on cybersecurity labs, technical investigations, and
 ## 📬 Contact & Professional Links
 
 * **LinkedIn:** [Your Profile Link Here]
-* **Email:** [mohammed.mubarak.01001@gmail.com]
+* **Email:** mohammed.mubarak.01001@gmail.com
 * **Professional Statement:** [View My Cybersecurity Professional Statement](./labs/professional-statement.md)
