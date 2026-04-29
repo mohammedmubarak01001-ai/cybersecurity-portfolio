@@ -10,6 +10,10 @@ It showcases selected hands-on cybersecurity labs, technical investigations, and
 
 I aim to leverage my technical cybersecurity skills to support organizational security goals through continuous monitoring and threat analysis. I am committed to extreme precision in implementing security policies, with a focus on building trusted digital environments based on technical integrity and innovative defense strategies.
 
+> 🔗 **[View My Full Professional Statement](./PROFESSIONAL_STATEMENT.md)** 
+> *Explore my career vision, core values, and long-term goals in cybersecurity.*
+
+
 ---
 
 ## 🛠️ Technical Skills & Tools
